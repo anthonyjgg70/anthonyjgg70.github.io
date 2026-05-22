@@ -173,22 +173,22 @@ nav a:hover{
 
 .hero{
 
-  min-height:55vh;
-
   display:flex;
+
   align-items:center;
+
   justify-content:space-between;
 
   gap:80px;
 
-  margin-bottom:10px;
+  padding-top:120px;
+
+  padding-bottom:20px;
+
+  min-height:auto;
+
+  margin-bottom:0px;
 }
-
-.hero-text{
-
-  flex:1;
-}
-
 .hero-subtitle{
 
   font-size:22px;
@@ -204,9 +204,8 @@ nav a:hover{
 
 .home-section{
 
-  padding-top:0px;
+  padding-top:10px;
 }
-
 /* =========================================
    Hero Image
 ========================================= */
